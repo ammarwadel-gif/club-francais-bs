@@ -1,0 +1,8 @@
+{
+  "name": "club-francais-bs",
+  "version": "2.0.0",
+  "description": "Club Francais de BS - Learning Platform",
+  "scripts": {
+    "start": "npx serve ."
+  }
+}
